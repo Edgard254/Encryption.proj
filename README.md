@@ -1,26 +1,22 @@
 # Encryption.proj
-O Encriptador de Textos é uma ferramenta versátil e confiável que oferece a capacidade de proteger mensagens e informações confidenciais por meio da criptografia de texto. Com sua interface amigável e funcionalidades de segurança, essa aplicação é uma escolha ideal para garantir que suas comunicações eletrônicas permaneçam privadas e seguras.
+Text Encryptor is a versatile and reliable tool that offers the ability to protect confidential messages and information through text encryption. With its user-friendly interface and security features, this application is an ideal choice for ensuring that your electronic communications remain private and secure.
 
-Recursos e Funcionalidades:
+Features and Functionality:
 
-Criptografia de Texto: O encriptador utiliza algoritmos de criptografia avançados para transformar texto simples em texto cifrado, tornando-o ininteligível para qualquer pessoa sem a chave de desencriptação apropriada.
+Text Encryption: The encryptor uses advanced encryption algorithms to transform plain text into cipher text, making it unintelligible to anyone without the appropriate decryption key.
 
-Chaves de Criptografia: Para descriptografar o texto, é necessária uma chave exclusiva, garantindo que apenas o destinatário autorizado possa ler a mensagem.
+Encryption Keys: To decrypt the text, a unique key is required, ensuring that only the authorized recipient can read the message.
 
-Variedade de Algoritmos: A aplicação suporta uma variedade de algoritmos de criptografia, como AES, RSA e DES, permitindo aos usuários escolher o nível de segurança desejado.
+Variety of Algorithms: The application supports a variety of encryption algorithms such as AES, RSA and DES, allowing users to choose the desired level of security.
 
-Geração de Chaves: Permite a geração segura de chaves criptográficas, proporcionando uma camada adicional de proteção para suas mensagens.
+Key Generation: Allows the secure generation of cryptographic keys, providing an additional layer of protection for your messages.
 
-Interface Intuitiva: A interface do usuário é intuitiva e fácil de usar, tornando o processo de criptografia acessível a usuários de todos os níveis de experiência.
+Intuitive Interface: The user interface is intuitive and easy to use, making the encryption process accessible to users of all experience levels.
 
-Copiar e Colar Simples: Os usuários podem simplesmente copiar o texto cifrado e enviá-lo a destinatários, que podem então colar o texto para descriptografá-lo.
+Simple Copy and Paste: Users can simply copy the ciphertext and send it to recipients, who can then paste the text to decrypt it.
 
-Compatibilidade com Diversos Dispositivos: O encriptador é compatível com vários dispositivos e sistemas operacionais, tornando-o flexível e prático.
+Compatibility with Various Devices: The encrypter is compatible with various devices and operating systems, making it flexible and practical.
 
-Benefícios:
+Benefits:
 
-Protege mensagens e informações confidenciais de olhos curiosos e acesso não autorizado.
-Permite comunicações seguras por e-mail, mensagens instantâneas e outros canais eletrônicos.
-Facilita a compartilhamento seguro de informações confidenciais com colegas de trabalho, amigos e familiares.
-Oferece uma solução eficaz para a proteção da privacidade e segurança de comunicações eletrônicas.
-O Encriptador de Textos é uma ferramenta essencial para aqueles que valorizam a privacidade e a segurança de suas comunicações eletrônicas. Seja para proteger informações pessoais, documentos empresariais confidenciais ou garantir a confidencialidade de mensagens, essa aplicação oferece uma maneira eficaz de proteger suas comunicações contra ameaças cibernéticas e garantir a privacidade online.
+Protects confidential messages and information from prying eyes and unauthorized access.
